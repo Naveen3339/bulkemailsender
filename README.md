@@ -1,3 +1,3 @@
 # mass-email-sender
 
-a [Sails](http://sailsjs.org) application
+a [Sail](http://sailsjs.org) application
